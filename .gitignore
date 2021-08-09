@@ -1,6 +1,8 @@
 URP
 Fonts
+*.psd
 *.png~
+*.psd~
 *.meta
 Scenes
 TextMeshPro
